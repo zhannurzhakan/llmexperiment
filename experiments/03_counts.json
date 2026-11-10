@@ -1,0 +1,968 @@
+{
+ "A:hello:EN": {
+  "text": "Hello, world!",
+  "counts": {
+   "gpt4:cl100k": 4,
+   "gpt4o:o200k": 4,
+   "gpt-oss:harmony": 4,
+   "Qwen3.8": 4,
+   "DeepSeek-V4.1": 4,
+   "Mistral-Large-4": 4,
+   "Gemma-4": 4,
+   "Llama-4": 4,
+   "GLM-5.3": 4
+  }
+ },
+ "A:hello:RU": {
+  "text": "Привет, мир!",
+  "counts": {
+   "gpt4:cl100k": 7,
+   "gpt4o:o200k": 5,
+   "gpt-oss:harmony": 5,
+   "Qwen3.8": 6,
+   "DeepSeek-V4.1": 5,
+   "Mistral-Large-4": 6,
+   "Gemma-4": 4,
+   "Llama-4": 5,
+   "GLM-5.3": 5
+  }
+ },
+ "A:hello:RU-lat": {
+  "text": "Privet, mir!",
+  "counts": {
+   "gpt4:cl100k": 5,
+   "gpt4o:o200k": 5,
+   "gpt-oss:harmony": 5,
+   "Qwen3.8": 5,
+   "DeepSeek-V4.1": 5,
+   "Mistral-Large-4": 5,
+   "Gemma-4": 5,
+   "Llama-4": 5,
+   "GLM-5.3": 5
+  }
+ },
+ "A:hello:KK": {
+  "text": "Сәлем, әлем!",
+  "counts": {
+   "gpt4:cl100k": 10,
+   "gpt4o:o200k": 6,
+   "gpt-oss:harmony": 6,
+   "Qwen3.8": 7,
+   "DeepSeek-V4.1": 8,
+   "Mistral-Large-4": 5,
+   "Gemma-4": 7,
+   "Llama-4": 7,
+   "GLM-5.3": 8
+  }
+ },
+ "A:hello:KK-lat": {
+  "text": "Sälem, älem!",
+  "counts": {
+   "gpt4:cl100k": 7,
+   "gpt4o:o200k": 7,
+   "gpt-oss:harmony": 7,
+   "Qwen3.8": 7,
+   "DeepSeek-V4.1": 7,
+   "Mistral-Large-4": 7,
+   "Gemma-4": 7,
+   "Llama-4": 7,
+   "GLM-5.3": 7
+  }
+ },
+ "A:love:EN": {
+  "text": "I love programming.",
+  "counts": {
+   "gpt4:cl100k": 4,
+   "gpt4o:o200k": 4,
+   "gpt-oss:harmony": 4,
+   "Qwen3.8": 4,
+   "DeepSeek-V4.1": 4,
+   "Mistral-Large-4": 4,
+   "Gemma-4": 4,
+   "Llama-4": 4,
+   "GLM-5.3": 4
+  }
+ },
+ "A:love:RU": {
+  "text": "Я люблю программировать.",
+  "counts": {
+   "gpt4:cl100k": 8,
+   "gpt4o:o200k": 5,
+   "gpt-oss:harmony": 5,
+   "Qwen3.8": 5,
+   "DeepSeek-V4.1": 7,
+   "Mistral-Large-4": 6,
+   "Gemma-4": 5,
+   "Llama-4": 6,
+   "GLM-5.3": 5
+  }
+ },
+ "A:love:RU-lat": {
+  "text": "Ya lyublyu programmirovat.",
+  "counts": {
+   "gpt4:cl100k": 10,
+   "gpt4o:o200k": 9,
+   "gpt-oss:harmony": 9,
+   "Qwen3.8": 9,
+   "DeepSeek-V4.1": 10,
+   "Mistral-Large-4": 9,
+   "Gemma-4": 9,
+   "Llama-4": 9,
+   "GLM-5.3": 10
+  }
+ },
+ "A:love:KK": {
+  "text": "Мен бағдарламалауды жақсы көремін.",
+  "counts": {
+   "gpt4:cl100k": 25,
+   "gpt4o:o200k": 9,
+   "gpt-oss:harmony": 9,
+   "Qwen3.8": 16,
+   "DeepSeek-V4.1": 18,
+   "Mistral-Large-4": 8,
+   "Gemma-4": 14,
+   "Llama-4": 13,
+   "GLM-5.3": 20
+  }
+ },
+ "A:love:KK-lat": {
+  "text": "Men bağdarlamalaudı jaqsı köremin.",
+  "counts": {
+   "gpt4:cl100k": 15,
+   "gpt4o:o200k": 15,
+   "gpt-oss:harmony": 15,
+   "Qwen3.8": 14,
+   "DeepSeek-V4.1": 16,
+   "Mistral-Large-4": 14,
+   "Gemma-4": 15,
+   "Llama-4": 14,
+   "GLM-5.3": 14
+  }
+ },
+ "A:tokens:EN": {
+  "text": "Large language models process text in pieces called tokens.",
+  "counts": {
+   "gpt4:cl100k": 10,
+   "gpt4o:o200k": 10,
+   "gpt-oss:harmony": 10,
+   "Qwen3.8": 10,
+   "DeepSeek-V4.1": 10,
+   "Mistral-Large-4": 10,
+   "Gemma-4": 10,
+   "Llama-4": 10,
+   "GLM-5.3": 10
+  }
+ },
+ "A:tokens:RU": {
+  "text": "Большие языковые модели обрабатывают текст по кусочкам, которые называются токенами.",
+  "counts": {
+   "gpt4:cl100k": 39,
+   "gpt4o:o200k": 21,
+   "gpt-oss:harmony": 21,
+   "Qwen3.8": 21,
+   "DeepSeek-V4.1": 22,
+   "Mistral-Large-4": 22,
+   "Gemma-4": 20,
+   "Llama-4": 19,
+   "GLM-5.3": 22
+  }
+ },
+ "A:tokens:RU-lat": {
+  "text": "Bolshie yazykovye modeli obrabatyvayut tekst po kusochkam, kotorye nazyvayutsya tokenami.",
+  "counts": {
+   "gpt4:cl100k": 36,
+   "gpt4o:o200k": 32,
+   "gpt-oss:harmony": 32,
+   "Qwen3.8": 32,
+   "DeepSeek-V4.1": 33,
+   "Mistral-Large-4": 31,
+   "Gemma-4": 29,
+   "Llama-4": 31,
+   "GLM-5.3": 35
+  }
+ },
+ "A:tokens:KK": {
+  "text": "Үлкен тілдік модельдер мәтінді токендер деп аталатын бөліктермен өңдейді.",
+  "counts": {
+   "gpt4:cl100k": 54,
+   "gpt4o:o200k": 22,
+   "gpt-oss:harmony": 22,
+   "Qwen3.8": 32,
+   "DeepSeek-V4.1": 38,
+   "Mistral-Large-4": 20,
+   "Gemma-4": 28,
+   "Llama-4": 27,
+   "GLM-5.3": 36
+  }
+ },
+ "A:tokens:KK-lat": {
+  "text": "Ülken tildik modelder mätindi tokender dep atalatın böliktermen öñdeydi.",
+  "counts": {
+   "gpt4:cl100k": 28,
+   "gpt4o:o200k": 26,
+   "gpt-oss:harmony": 26,
+   "Qwen3.8": 26,
+   "DeepSeek-V4.1": 28,
+   "Mistral-Large-4": 27,
+   "Gemma-4": 26,
+   "Llama-4": 26,
+   "GLM-5.3": 28
+  }
+ },
+ "A:pharmacy:EN": {
+  "text": "Where is the nearest pharmacy?",
+  "counts": {
+   "gpt4:cl100k": 6,
+   "gpt4o:o200k": 6,
+   "gpt-oss:harmony": 6,
+   "Qwen3.8": 6,
+   "DeepSeek-V4.1": 6,
+   "Mistral-Large-4": 6,
+   "Gemma-4": 6,
+   "Llama-4": 6,
+   "GLM-5.3": 6
+  }
+ },
+ "A:pharmacy:RU": {
+  "text": "Где находится ближайшая аптека?",
+  "counts": {
+   "gpt4:cl100k": 17,
+   "gpt4o:o200k": 9,
+   "gpt-oss:harmony": 9,
+   "Qwen3.8": 8,
+   "DeepSeek-V4.1": 9,
+   "Mistral-Large-4": 8,
+   "Gemma-4": 8,
+   "Llama-4": 7,
+   "GLM-5.3": 7
+  }
+ },
+ "A:pharmacy:RU-lat": {
+  "text": "Gde nakhoditsya blizhayshaya apteka?",
+  "counts": {
+   "gpt4:cl100k": 15,
+   "gpt4o:o200k": 15,
+   "gpt-oss:harmony": 15,
+   "Qwen3.8": 15,
+   "DeepSeek-V4.1": 16,
+   "Mistral-Large-4": 16,
+   "Gemma-4": 15,
+   "Llama-4": 15,
+   "GLM-5.3": 15
+  }
+ },
+ "A:pharmacy:KK": {
+  "text": "Ең жақын дәріхана қайда орналасқан?",
+  "counts": {
+   "gpt4:cl100k": 31,
+   "gpt4o:o200k": 12,
+   "gpt-oss:harmony": 12,
+   "Qwen3.8": 17,
+   "DeepSeek-V4.1": 19,
+   "Mistral-Large-4": 9,
+   "Gemma-4": 16,
+   "Llama-4": 15,
+   "GLM-5.3": 22
+  }
+ },
+ "A:pharmacy:KK-lat": {
+  "text": "Eñ jaqın därihana qayda ornalasqan?",
+  "counts": {
+   "gpt4:cl100k": 18,
+   "gpt4o:o200k": 15,
+   "gpt-oss:harmony": 15,
+   "Qwen3.8": 16,
+   "DeepSeek-V4.1": 18,
+   "Mistral-Large-4": 15,
+   "Gemma-4": 16,
+   "Llama-4": 16,
+   "GLM-5.3": 18
+  }
+ },
+ "A:thanks:EN": {
+  "text": "Thank you very much for your help.",
+  "counts": {
+   "gpt4:cl100k": 8,
+   "gpt4o:o200k": 8,
+   "gpt-oss:harmony": 8,
+   "Qwen3.8": 8,
+   "DeepSeek-V4.1": 8,
+   "Mistral-Large-4": 8,
+   "Gemma-4": 8,
+   "Llama-4": 8,
+   "GLM-5.3": 8
+  }
+ },
+ "A:thanks:RU": {
+  "text": "Большое спасибо за вашу помощь.",
+  "counts": {
+   "gpt4:cl100k": 16,
+   "gpt4o:o200k": 7,
+   "gpt-oss:harmony": 7,
+   "Qwen3.8": 8,
+   "DeepSeek-V4.1": 11,
+   "Mistral-Large-4": 10,
+   "Gemma-4": 7,
+   "Llama-4": 7,
+   "GLM-5.3": 7
+  }
+ },
+ "A:thanks:RU-lat": {
+  "text": "Bolshoe spasibo za vashu pomoshch.",
+  "counts": {
+   "gpt4:cl100k": 14,
+   "gpt4o:o200k": 12,
+   "gpt-oss:harmony": 12,
+   "Qwen3.8": 13,
+   "DeepSeek-V4.1": 12,
+   "Mistral-Large-4": 13,
+   "Gemma-4": 12,
+   "Llama-4": 13,
+   "GLM-5.3": 14
+  }
+ },
+ "A:thanks:KK": {
+  "text": "Көмегіңіз үшін көп рахмет.",
+  "counts": {
+   "gpt4:cl100k": 26,
+   "gpt4o:o200k": 9,
+   "gpt-oss:harmony": 9,
+   "Qwen3.8": 13,
+   "DeepSeek-V4.1": 17,
+   "Mistral-Large-4": 9,
+   "Gemma-4": 13,
+   "Llama-4": 10,
+   "GLM-5.3": 18
+  }
+ },
+ "A:thanks:KK-lat": {
+  "text": "Kömegiñiz üşin köp rahmet.",
+  "counts": {
+   "gpt4:cl100k": 15,
+   "gpt4o:o200k": 12,
+   "gpt-oss:harmony": 12,
+   "Qwen3.8": 14,
+   "DeepSeek-V4.1": 14,
+   "Mistral-Large-4": 10,
+   "Gemma-4": 13,
+   "Llama-4": 13,
+   "GLM-5.3": 15
+  }
+ },
+ "A:weather:EN": {
+  "text": "Tomorrow the weather will be sunny, with a light wind.",
+  "counts": {
+   "gpt4:cl100k": 12,
+   "gpt4o:o200k": 12,
+   "gpt-oss:harmony": 12,
+   "Qwen3.8": 12,
+   "DeepSeek-V4.1": 12,
+   "Mistral-Large-4": 13,
+   "Gemma-4": 12,
+   "Llama-4": 13,
+   "GLM-5.3": 12
+  }
+ },
+ "A:weather:RU": {
+  "text": "Завтра погода будет солнечной, с лёгким ветром.",
+  "counts": {
+   "gpt4:cl100k": 24,
+   "gpt4o:o200k": 15,
+   "gpt-oss:harmony": 15,
+   "Qwen3.8": 14,
+   "DeepSeek-V4.1": 17,
+   "Mistral-Large-4": 18,
+   "Gemma-4": 15,
+   "Llama-4": 14,
+   "GLM-5.3": 17
+  }
+ },
+ "A:weather:RU-lat": {
+  "text": "Zavtra pogoda budet solnechnoy, s lyogkim vetrom.",
+  "counts": {
+   "gpt4:cl100k": 19,
+   "gpt4o:o200k": 19,
+   "gpt-oss:harmony": 19,
+   "Qwen3.8": 19,
+   "DeepSeek-V4.1": 19,
+   "Mistral-Large-4": 20,
+   "Gemma-4": 19,
+   "Llama-4": 19,
+   "GLM-5.3": 19
+  }
+ },
+ "A:weather:KK": {
+  "text": "Ертең ауа райы күн ашық, жеңіл желмен болады.",
+  "counts": {
+   "gpt4:cl100k": 35,
+   "gpt4o:o200k": 16,
+   "gpt-oss:harmony": 16,
+   "Qwen3.8": 21,
+   "DeepSeek-V4.1": 25,
+   "Mistral-Large-4": 14,
+   "Gemma-4": 20,
+   "Llama-4": 19,
+   "GLM-5.3": 25
+  }
+ },
+ "A:weather:KK-lat": {
+  "text": "Erteñ aua rayı kün aşıq, jeñil jelmen boladı.",
+  "counts": {
+   "gpt4:cl100k": 22,
+   "gpt4o:o200k": 20,
+   "gpt-oss:harmony": 20,
+   "Qwen3.8": 21,
+   "DeepSeek-V4.1": 22,
+   "Mistral-Large-4": 20,
+   "Gemma-4": 21,
+   "Llama-4": 21,
+   "GLM-5.3": 22
+  }
+ },
+ "A:proverb:EN": {
+  "text": "A friend in need is a friend indeed.",
+  "counts": {
+   "gpt4:cl100k": 9,
+   "gpt4o:o200k": 9,
+   "gpt-oss:harmony": 9,
+   "Qwen3.8": 9,
+   "DeepSeek-V4.1": 9,
+   "Mistral-Large-4": 9,
+   "Gemma-4": 9,
+   "Llama-4": 9,
+   "GLM-5.3": 9
+  }
+ },
+ "A:proverb:RU": {
+  "text": "Друг познаётся в беде.",
+  "counts": {
+   "gpt4:cl100k": 13,
+   "gpt4o:o200k": 8,
+   "gpt-oss:harmony": 8,
+   "Qwen3.8": 8,
+   "DeepSeek-V4.1": 9,
+   "Mistral-Large-4": 9,
+   "Gemma-4": 8,
+   "Llama-4": 8,
+   "GLM-5.3": 7
+  }
+ },
+ "A:proverb:RU-lat": {
+  "text": "Drug poznayotsya v bede.",
+  "counts": {
+   "gpt4:cl100k": 10,
+   "gpt4o:o200k": 8,
+   "gpt-oss:harmony": 8,
+   "Qwen3.8": 8,
+   "DeepSeek-V4.1": 8,
+   "Mistral-Large-4": 8,
+   "Gemma-4": 8,
+   "Llama-4": 8,
+   "GLM-5.3": 10
+  }
+ },
+ "A:proverb:KK": {
+  "text": "Дос басқа күн туғанда белгілі.",
+  "counts": {
+   "gpt4:cl100k": 24,
+   "gpt4o:o200k": 8,
+   "gpt-oss:harmony": 8,
+   "Qwen3.8": 13,
+   "DeepSeek-V4.1": 17,
+   "Mistral-Large-4": 8,
+   "Gemma-4": 12,
+   "Llama-4": 10,
+   "GLM-5.3": 17
+  }
+ },
+ "A:proverb:KK-lat": {
+  "text": "Dos basqa kün tuğanda belgili.",
+  "counts": {
+   "gpt4:cl100k": 12,
+   "gpt4o:o200k": 11,
+   "gpt-oss:harmony": 11,
+   "Qwen3.8": 11,
+   "DeepSeek-V4.1": 13,
+   "Mistral-Large-4": 10,
+   "Gemma-4": 11,
+   "Llama-4": 11,
+   "GLM-5.3": 12
+  }
+ },
+ "A:news:EN": {
+  "text": "The central bank announced that the key interest rate will remain unchanged until the end of the year.",
+  "counts": {
+   "gpt4:cl100k": 19,
+   "gpt4o:o200k": 19,
+   "gpt-oss:harmony": 19,
+   "Qwen3.8": 19,
+   "DeepSeek-V4.1": 19,
+   "Mistral-Large-4": 19,
+   "Gemma-4": 19,
+   "Llama-4": 19,
+   "GLM-5.3": 19
+  }
+ },
+ "A:news:RU": {
+  "text": "Центральный банк объявил, что ключевая ставка останется неизменной до конца года.",
+  "counts": {
+   "gpt4:cl100k": 33,
+   "gpt4o:o200k": 22,
+   "gpt-oss:harmony": 22,
+   "Qwen3.8": 20,
+   "DeepSeek-V4.1": 26,
+   "Mistral-Large-4": 20,
+   "Gemma-4": 20,
+   "Llama-4": 17,
+   "GLM-5.3": 20
+  }
+ },
+ "A:news:RU-lat": {
+  "text": "Tsentralnyy bank obyavil, chto klyuchevaya stavka ostanetsya neizmennoy do kontsa goda.",
+  "counts": {
+   "gpt4:cl100k": 36,
+   "gpt4o:o200k": 32,
+   "gpt-oss:harmony": 32,
+   "Qwen3.8": 34,
+   "DeepSeek-V4.1": 33,
+   "Mistral-Large-4": 33,
+   "Gemma-4": 32,
+   "Llama-4": 32,
+   "GLM-5.3": 36
+  }
+ },
+ "A:news:KK": {
+  "text": "Орталық банк негізгі пайыздық мөлшерлеме жыл соңына дейін өзгеріссіз қалатынын мәлімдеді.",
+  "counts": {
+   "gpt4:cl100k": 73,
+   "gpt4o:o200k": 26,
+   "gpt-oss:harmony": 26,
+   "Qwen3.8": 41,
+   "DeepSeek-V4.1": 51,
+   "Mistral-Large-4": 22,
+   "Gemma-4": 37,
+   "Llama-4": 32,
+   "GLM-5.3": 52
+  }
+ },
+ "A:news:KK-lat": {
+  "text": "Ortalıq bank negizgi payızdıq mölşerleme jıl soñına deyin özgerissiz qalatının mälimdedi.",
+  "counts": {
+   "gpt4:cl100k": 42,
+   "gpt4o:o200k": 34,
+   "gpt-oss:harmony": 34,
+   "Qwen3.8": 36,
+   "DeepSeek-V4.1": 42,
+   "Mistral-Large-4": 33,
+   "Gemma-4": 35,
+   "Llama-4": 35,
+   "GLM-5.3": 39
+  }
+ },
+ "B:EN": {
+  "text": "Large language models process text in pieces called tokens.",
+  "counts": {
+   "gpt4:cl100k": 10,
+   "gpt4o:o200k": 10,
+   "gpt-oss:harmony": 10,
+   "Qwen3.8": 10,
+   "DeepSeek-V4.1": 10,
+   "Mistral-Large-4": 10,
+   "Gemma-4": 10,
+   "Llama-4": 10,
+   "GLM-5.3": 10
+  }
+ },
+ "B:ES": {
+  "text": "Los modelos de lenguaje grandes procesan el texto en fragmentos llamados tokens.",
+  "counts": {
+   "gpt4:cl100k": 18,
+   "gpt4o:o200k": 15,
+   "gpt-oss:harmony": 15,
+   "Qwen3.8": 16,
+   "DeepSeek-V4.1": 16,
+   "Mistral-Large-4": 14,
+   "Gemma-4": 15,
+   "Llama-4": 14,
+   "GLM-5.3": 16
+  }
+ },
+ "B:DE": {
+  "text": "Große Sprachmodelle verarbeiten Text in Stücken, die Token genannt werden.",
+  "counts": {
+   "gpt4:cl100k": 20,
+   "gpt4o:o200k": 17,
+   "gpt-oss:harmony": 17,
+   "Qwen3.8": 16,
+   "DeepSeek-V4.1": 18,
+   "Mistral-Large-4": 16,
+   "Gemma-4": 17,
+   "Llama-4": 17,
+   "GLM-5.3": 18
+  }
+ },
+ "B:TR": {
+  "text": "Büyük dil modelleri metni token adı verilen parçalar halinde işler.",
+  "counts": {
+   "gpt4:cl100k": 22,
+   "gpt4o:o200k": 15,
+   "gpt-oss:harmony": 15,
+   "Qwen3.8": 18,
+   "DeepSeek-V4.1": 24,
+   "Mistral-Large-4": 15,
+   "Gemma-4": 16,
+   "Llama-4": 16,
+   "GLM-5.3": 21
+  }
+ },
+ "B:RU": {
+  "text": "Большие языковые модели обрабатывают текст по кусочкам, которые называются токенами.",
+  "counts": {
+   "gpt4:cl100k": 39,
+   "gpt4o:o200k": 21,
+   "gpt-oss:harmony": 21,
+   "Qwen3.8": 21,
+   "DeepSeek-V4.1": 22,
+   "Mistral-Large-4": 22,
+   "Gemma-4": 20,
+   "Llama-4": 19,
+   "GLM-5.3": 22
+  }
+ },
+ "B:KK": {
+  "text": "Үлкен тілдік модельдер мәтінді токендер деп аталатын бөліктермен өңдейді.",
+  "counts": {
+   "gpt4:cl100k": 54,
+   "gpt4o:o200k": 22,
+   "gpt-oss:harmony": 22,
+   "Qwen3.8": 32,
+   "DeepSeek-V4.1": 38,
+   "Mistral-Large-4": 20,
+   "Gemma-4": 28,
+   "Llama-4": 27,
+   "GLM-5.3": 36
+  }
+ },
+ "B:ZH": {
+  "text": "大型语言模型将文本分成称为词元的片段进行处理。",
+  "counts": {
+   "gpt4:cl100k": 22,
+   "gpt4o:o200k": 17,
+   "gpt-oss:harmony": 17,
+   "Qwen3.8": 12,
+   "DeepSeek-V4.1": 12,
+   "Mistral-Large-4": 17,
+   "Gemma-4": 13,
+   "Llama-4": 14,
+   "GLM-5.3": 12
+  }
+ },
+ "B:JA": {
+  "text": "大規模言語モデルは、トークンと呼ばれる断片に分けてテキストを処理します。",
+  "counts": {
+   "gpt4:cl100k": 38,
+   "gpt4o:o200k": 29,
+   "gpt-oss:harmony": 29,
+   "Qwen3.8": 18,
+   "DeepSeek-V4.1": 24,
+   "Mistral-Large-4": 30,
+   "Gemma-4": 17,
+   "Llama-4": 21,
+   "GLM-5.3": 28
+  }
+ },
+ "B:AR": {
+  "text": "تعالج نماذج اللغة الكبيرة النص في أجزاء تسمى الرموز.",
+  "counts": {
+   "gpt4:cl100k": 36,
+   "gpt4o:o200k": 15,
+   "gpt-oss:harmony": 15,
+   "Qwen3.8": 15,
+   "DeepSeek-V4.1": 20,
+   "Mistral-Large-4": 14,
+   "Gemma-4": 18,
+   "Llama-4": 23,
+   "GLM-5.3": 25
+  }
+ },
+ "B:HI": {
+  "text": "बड़े भाषा मॉडल पाठ को टोकन नामक टुकड़ों में संसाधित करते हैं।",
+  "counts": {
+   "gpt4:cl100k": 63,
+   "gpt4o:o200k": 21,
+   "gpt-oss:harmony": 21,
+   "Qwen3.8": 29,
+   "DeepSeek-V4.1": 35,
+   "Mistral-Large-4": 23,
+   "Gemma-4": 16,
+   "Llama-4": 22,
+   "GLM-5.3": 54
+  }
+ },
+ "C:Числа:year": {
+  "text": "2026",
+  "counts": {
+   "gpt4:cl100k": 2,
+   "gpt4o:o200k": 2,
+   "gpt-oss:harmony": 2,
+   "Qwen3.8": 4,
+   "DeepSeek-V4.1": 2,
+   "Mistral-Large-4": 2,
+   "Gemma-4": 4,
+   "Llama-4": 2,
+   "GLM-5.3": 2
+  }
+ },
+ "C:Числа:pi": {
+  "text": "3.14159265358979",
+  "counts": {
+   "gpt4:cl100k": 7,
+   "gpt4o:o200k": 7,
+   "gpt-oss:harmony": 7,
+   "Qwen3.8": 16,
+   "DeepSeek-V4.1": 7,
+   "Mistral-Large-4": 7,
+   "Gemma-4": 16,
+   "Llama-4": 7,
+   "GLM-5.3": 10
+  }
+ },
+ "C:Числа:big": {
+  "text": "1 000 000 000",
+  "counts": {
+   "gpt4:cl100k": 7,
+   "gpt4o:o200k": 7,
+   "gpt-oss:harmony": 7,
+   "Qwen3.8": 13,
+   "DeepSeek-V4.1": 7,
+   "Mistral-Large-4": 7,
+   "Gemma-4": 13,
+   "Llama-4": 7,
+   "GLM-5.3": 7
+  }
+ },
+ "C:Числа:phone": {
+  "text": "+7 701 123 45 67",
+  "counts": {
+   "gpt4:cl100k": 10,
+   "gpt4o:o200k": 10,
+   "gpt-oss:harmony": 10,
+   "Qwen3.8": 16,
+   "DeepSeek-V4.1": 10,
+   "Mistral-Large-4": 10,
+   "Gemma-4": 16,
+   "Llama-4": 10,
+   "GLM-5.3": 11
+  }
+ },
+ "C:Числа:date": {
+  "text": "10.11.2026 14:35",
+  "counts": {
+   "gpt4:cl100k": 10,
+   "gpt4o:o200k": 10,
+   "gpt-oss:harmony": 10,
+   "Qwen3.8": 16,
+   "DeepSeek-V4.1": 10,
+   "Mistral-Large-4": 10,
+   "Gemma-4": 16,
+   "Llama-4": 10,
+   "GLM-5.3": 10
+  }
+ },
+ "C:Код:python": {
+  "text": "def add(a, b):\n    return a + b\n\nprint(add(2, 3))",
+  "counts": {
+   "gpt4:cl100k": 20,
+   "gpt4o:o200k": 20,
+   "gpt-oss:harmony": 20,
+   "Qwen3.8": 21,
+   "DeepSeek-V4.1": 20,
+   "Mistral-Large-4": 20,
+   "Gemma-4": 23,
+   "Llama-4": 20,
+   "GLM-5.3": 20
+  }
+ },
+ "C:Код:json": {
+  "text": "{\"name\": \"Aigerim\", \"age\": 25, \"city\": \"Astana\"}",
+  "counts": {
+   "gpt4:cl100k": 21,
+   "gpt4o:o200k": 21,
+   "gpt-oss:harmony": 21,
+   "Qwen3.8": 22,
+   "DeepSeek-V4.1": 21,
+   "Mistral-Large-4": 21,
+   "Gemma-4": 22,
+   "Llama-4": 21,
+   "GLM-5.3": 21
+  }
+ },
+ "C:Код:sql": {
+  "text": "SELECT name, COUNT(*) FROM users WHERE age > 18 GROUP BY name;",
+  "counts": {
+   "gpt4:cl100k": 16,
+   "gpt4o:o200k": 16,
+   "gpt-oss:harmony": 16,
+   "Qwen3.8": 17,
+   "DeepSeek-V4.1": 16,
+   "Mistral-Large-4": 16,
+   "Gemma-4": 17,
+   "Llama-4": 16,
+   "GLM-5.3": 16
+  }
+ },
+ "C:Код:url": {
+  "text": "https://github.com/zhannurzhakan/llmexperiment",
+  "counts": {
+   "gpt4:cl100k": 14,
+   "gpt4o:o200k": 14,
+   "gpt-oss:harmony": 14,
+   "Qwen3.8": 14,
+   "DeepSeek-V4.1": 15,
+   "Mistral-Large-4": 15,
+   "Gemma-4": 15,
+   "Llama-4": 13,
+   "GLM-5.3": 14
+  }
+ },
+ "C:Код:email": {
+  "text": "user.name+test@example.com",
+  "counts": {
+   "gpt4:cl100k": 6,
+   "gpt4o:o200k": 6,
+   "gpt-oss:harmony": 6,
+   "Qwen3.8": 6,
+   "DeepSeek-V4.1": 7,
+   "Mistral-Large-4": 6,
+   "Gemma-4": 9,
+   "Llama-4": 6,
+   "GLM-5.3": 6
+  }
+ },
+ "C:Спецсимволы:emoji": {
+  "text": "Люблю кофе ☕ и код 💻🔥",
+  "counts": {
+   "gpt4:cl100k": 16,
+   "gpt4o:o200k": 10,
+   "gpt-oss:harmony": 10,
+   "Qwen3.8": 12,
+   "DeepSeek-V4.1": 12,
+   "Mistral-Large-4": 12,
+   "Gemma-4": 10,
+   "Llama-4": 11,
+   "GLM-5.3": 10
+  }
+ },
+ "C:Спецсимволы:caps": {
+  "text": "ЭТО ВАЖНО!!! ЧИТАЙТЕ ВНИМАТЕЛЬНО",
+  "counts": {
+   "gpt4:cl100k": 31,
+   "gpt4o:o200k": 19,
+   "gpt-oss:harmony": 19,
+   "Qwen3.8": 16,
+   "DeepSeek-V4.1": 21,
+   "Mistral-Large-4": 18,
+   "Gemma-4": 18,
+   "Llama-4": 16,
+   "GLM-5.3": 18
+  }
+ },
+ "C:Спецсимволы:spaces": {
+  "text": "слово    слово\t\tслово",
+  "counts": {
+   "gpt4:cl100k": 11,
+   "gpt4o:o200k": 8,
+   "gpt-oss:harmony": 8,
+   "Qwen3.8": 8,
+   "DeepSeek-V4.1": 8,
+   "Mistral-Large-4": 10,
+   "Gemma-4": 8,
+   "Llama-4": 8,
+   "GLM-5.3": 8
+  }
+ },
+ "C:Редкие слова:ru_long": {
+  "text": "Антиконституционность",
+  "counts": {
+   "gpt4:cl100k": 11,
+   "gpt4o:o200k": 6,
+   "gpt-oss:harmony": 6,
+   "Qwen3.8": 6,
+   "DeepSeek-V4.1": 6,
+   "Mistral-Large-4": 6,
+   "Gemma-4": 6,
+   "Llama-4": 5,
+   "GLM-5.3": 6
+  }
+ },
+ "C:Редкие слова:ru_longer": {
+  "text": "Электроэнцефалографический",
+  "counts": {
+   "gpt4:cl100k": 17,
+   "gpt4o:o200k": 9,
+   "gpt-oss:harmony": 9,
+   "Qwen3.8": 8,
+   "DeepSeek-V4.1": 8,
+   "Mistral-Large-4": 8,
+   "Gemma-4": 8,
+   "Llama-4": 8,
+   "GLM-5.3": 9
+  }
+ },
+ "C:Редкие слова:en_long": {
+  "text": "Supercalifragilisticexpialidocious",
+  "counts": {
+   "gpt4:cl100k": 11,
+   "gpt4o:o200k": 10,
+   "gpt-oss:harmony": 10,
+   "Qwen3.8": 11,
+   "DeepSeek-V4.1": 11,
+   "Mistral-Large-4": 11,
+   "Gemma-4": 10,
+   "Llama-4": 11,
+   "GLM-5.3": 11
+  }
+ },
+ "C:Редкие слова:kk_long": {
+  "text": "Қазақстандағылардың",
+  "counts": {
+   "gpt4:cl100k": 17,
+   "gpt4o:o200k": 5,
+   "gpt-oss:harmony": 5,
+   "Qwen3.8": 8,
+   "DeepSeek-V4.1": 11,
+   "Mistral-Large-4": 4,
+   "Gemma-4": 9,
+   "Llama-4": 5,
+   "GLM-5.3": 10
+  }
+ },
+ "C:Редкие слова:typo": {
+  "text": "Превет, как делла? Я хачу кофэ",
+  "counts": {
+   "gpt4:cl100k": 16,
+   "gpt4o:o200k": 14,
+   "gpt-oss:harmony": 14,
+   "Qwen3.8": 14,
+   "DeepSeek-V4.1": 13,
+   "Mistral-Large-4": 13,
+   "Gemma-4": 13,
+   "Llama-4": 13,
+   "GLM-5.3": 15
+  }
+ },
+ "C:Редкие слова:strawberry": {
+  "text": "strawberry",
+  "counts": {
+   "gpt4:cl100k": 3,
+   "gpt4o:o200k": 3,
+   "gpt-oss:harmony": 3,
+   "Qwen3.8": 3,
+   "DeepSeek-V4.1": 3,
+   "Mistral-Large-4": 3,
+   "Gemma-4": 1,
+   "Llama-4": 3,
+   "GLM-5.3": 3
+  }
+ }
+}
